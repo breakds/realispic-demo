@@ -1,7 +1,7 @@
 (in-package :cl-user)
-(defpackage realispic-demo-lucky-color
+(defpackage realispic-demo-lucky-color-asd
   (:use :cl :asdf))
-(in-package :realispic-demo-lucky-color)
+(in-package :realispic-demo-lucky-color-asd)
 
 (defsystem lucky-color
   :version "0.1.0"
