@@ -11,5 +11,3 @@
   :components ((:module "lucky-color" :components
                         ((:file "app"))))
   :description "A simple webapp demo with one functional button.")
-               
-
